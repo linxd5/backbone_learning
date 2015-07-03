@@ -24,3 +24,5 @@ July 3, 2015
 		};	
 	})();
 
+
+###2. [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/): MVC Applied To The Web.
