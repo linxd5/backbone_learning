@@ -3,6 +3,12 @@
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+### July 4, 2015
+
+#### 1. [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/): indexOf() - return the index of a particular item within a collection
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 ### July 3, 2015
 
