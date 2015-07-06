@@ -1,7 +1,7 @@
 # backbone_learning
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-### July 5, 2015
+### July 6, 2015
 
 1. [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/): Exercise 2:Book Library - Your First RESTful Backbone.js App
 
