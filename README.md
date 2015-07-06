@@ -1,7 +1,18 @@
 # backbone_learning
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-### July 4, 2015
+### July 5, 2015
+
+1. [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/): Exercise 2:Book Library - Your First RESTful Backbone.js App
+
+
+**Study Notes**:
+
+(1). Need to know more about MV*; 
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+### July 5, 2015
 
 1. [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/): Exercise 1: Todos - Your First Backbone.js App
 
@@ -13,6 +24,8 @@
 (2). *Todo* demo will be started at tomorrow.
 
 (3). Youtube + Tuts/Codeschool/Treehouse
+
+(4). [Event.which](https://api.jquery.com/event.which/): I like its Demo ~
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ### July 4, 2015
